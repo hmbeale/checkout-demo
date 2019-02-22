@@ -1,10 +1,10 @@
 import React from "react";
-import Dashboard from "./components/Dashboard.js"
+import Checkout from "./components/Checkout.js"
 
 class App extends React.Component {
   render() {
     return (
-      <Dashboard />
+      <Checkout />
     )
   }
 }
